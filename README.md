@@ -13,11 +13,11 @@ This source code is not downloaded directly from TikTok but uses a third party.
    ```
 2. Clone or download this repository
    ```bash
-   git clone https://github.com/akasakaid/TiktokDownloader.git
+   git clone https://github.com/hokireceh/tiktok_downloader.git
    ```
 3. Goto TiktokDownloader folder<br/>
    ```powershell
-   cd TiktokDownloader
+   cd tiktok_downloader
    ```
 4. Install required libraries <br />
    ```bash
