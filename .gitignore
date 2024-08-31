@@ -1,0 +1,12 @@
+*/__pycache__/
+.vscode/*
+.env
+*.mp4
+session/*
+*.html
+.log
+__pycache__/*
+env
+tes.py
+*.session
+*.session-journal
