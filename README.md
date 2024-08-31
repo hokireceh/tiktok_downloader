@@ -74,12 +74,13 @@ Save the session using keyboard shortcut **ctrl + a + d**
 
 Done
 # Follow me
-* https://facebook.com/fawwazthoerif
-* https://instagram.com/fawatashi <br />
+* https://facebook.com/hokireceh.official
+* https://instagram.com/hokireceh <br />
   *You can contact me with social media in above*
 # Support me
 
-* (Indonesia) https://trakteer.id/fawwazthoerif
-* (Global/International) https://sociabuzz.com/fawwazthoerif/tribe
-* Bitcoin ```1HjMdpmiM8bUs2CtfjpXcjZjBBxNgBvhp4```
-* Tron / USDT (Tron20) ```TZANkbi8z22cEpkpWfJ1F6H84r9DA19Es1```
+* (Indonesia) 
+* (Global/International) https://sociabuzz.com/vania_gemash/tribe
+* Ton ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
+* Dogs ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
+* TRON / USDT (Tron20) ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
